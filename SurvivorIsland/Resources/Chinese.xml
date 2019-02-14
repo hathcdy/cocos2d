@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dict>
+  <key>helpMessage</key>
+  <string>单人:方向键移动&#160;/键攻击&#160;，.切换武器&#x000A;双人：&#x000A;1P：方向键移动&#160;/键攻击&#160;，.切换武器&#x000A;2P：WASD键移动&#160;空格键攻击&#160;EQ切换武器</string>
+  
+  <key>score</key>
+  <string>历史得分</string>
+  
+  <key>singleModel</key>
+  <string>单人模式</string>
+  
+  <key>doubleModel</key>
+  <string>双人模式</string>
+  
+  <key>title</key>
+  <string>生存岛</string>
+ </dict>
